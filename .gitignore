@@ -1,0 +1,13 @@
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.pyc
+dist
+build
+.sonar/*
+mirror_web/mirror_web/logs/*
+sonar-project.properties
+.idea
+.vscode
+*migrations/
